@@ -1,4 +1,10 @@
 scipy
 matplotlib
-
+pillow
+seaborn
+vibecheck 
+datatops
+git+https://gitlab.com/pyretis/pyretis.git
+pyqt5
+git+https://github.com/mdtraj/mdtraj.git
 
